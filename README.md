@@ -1,0 +1,1 @@
+### MCP typescript sdk course from https://www.youtube.com/watch?v=ZoZxQwp1PiM&t=3070s using mcp python sdk

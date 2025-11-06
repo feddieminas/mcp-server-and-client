@@ -1,0 +1,11 @@
+[project]
+name = "mcp-server-client"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=1.47.0",
+    "inquirer>=3.4.1",
+    "mcp[cli]>=1.18.0",
+]

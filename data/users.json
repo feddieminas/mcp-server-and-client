@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice@test.com",
+        "address": "123 Maple St, Springfield, IL",
+        "phone": "555-1234"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob@test.com",
+        "address": "456 Oak St, Springfield, IL",
+        "phone": "555-5678"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "email": "charlie@test.com",
+        "address": "123 Main St, Omaha, NE",
+        "phone": "555-8765"
+    },
+    {
+        "id": 4,
+        "name": "Kyle",
+        "email": "test@test.com",
+        "address": "sdfsdfsdfsdf",
+        "phone": "34545634534"
+    },
+    {
+        "id": 5,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "address": "123 Main Street, Anytown, ST 12345",
+        "phone": "+1-555-123-4567"
+    },
+    {
+        "id": 6,
+        "name": "Kyle",
+        "email": "test@test.com",
+        "address": "1234 Main st",
+        "phone": "234345345"
+    },
+    {
+        "id": 7,
+        "name": "Jessica M. Turner",
+        "email": "jessica.turner84@gmail.com",
+        "address": "4821 Willowbrook Lane, Apt 3B, Columbus, OH 43220",
+        "phone": "(614) 555-2378"
+    },
+    {
+        "id": 8,
+        "name": "Jessica Ramirez",
+        "email": "jessica.ramirez82@gmail.com",
+        "address": "1842 Willowbrook Lane, Austin, TX 78741",
+        "phone": "(512) 555-3472"
+    },
+    {
+        "id": 9,
+        "name": "fed",
+        "email": "fed@example.com",
+        "address": "paradise",
+        "phone": "12345678"
+    },
+    {
+        "id": 10,
+        "name": "Example User",
+        "email": "example@example.com",
+        "address": "123 Example St",
+        "phone": "123-456-7890"
+    },
+    {
+        "id": 11,
+        "name": "kyle",
+        "email": "kyle@example.com",
+        "address": "1234 main str",
+        "phone": "12345"
+    },
+    {
+        "id": 12,
+        "name": "Sally Parker",
+        "email": "sally.parker@example.com",
+        "address": "742 Evergreen Terrace, Springfield, IL 62701",
+        "phone": "(217) 555-0198"
+    },
+    {
+        "id": 13,
+        "name": "Daniel Reyes",
+        "email": "daniel.reyes@example.com",
+        "address": {
+            "street": "1459 Elm Street, Apt 3B",
+            "city": "San Diego",
+            "state": "CA",
+            "zip": "92103",
+            "country": "USA"
+        },
+        "phone": "+1-619-555-0127"
+    },
+    {
+        "id": 14,
+        "name": "John Doe",
+        "email": "doe@example.com",
+        "address": "123 Main St, Anytown, USA",
+        "phone": "555-1234"
+    },
+    {
+        "id": 15,
+        "name": "teo",
+        "email": "teo@example.com",
+        "address": "rfrmog",
+        "phone": "35350358"
+    },
+    {
+        "id": 16,
+        "name": "ev",
+        "email": "krem",
+        "address": "ceeinvo4",
+        "phone": "39035935"
+    },
+    {
+        "id": 17,
+        "name": "kyle",
+        "email": "test@test.com",
+        "address": "4595594",
+        "phone": "49595"
+    },
+    {
+        "id": 18,
+        "name": "Olivia Rodriguez",
+        "email": "olivia.rodriguez@example.com",
+        "address": {
+            "street": "456 Oak Avenue",
+            "city": "Fairview",
+            "state": "CA",
+            "zipCode": "90210"
+        },
+        "phone": ""
+    },
+    {
+        "id": 19,
+        "name": "lion",
+        "email": "lion@example.com",
+        "address": "eieniegni",
+        "phone": "eoemo"
+    },
+    {
+        "id": 20,
+        "name": "lion3",
+        "email": "lion3@example.com",
+        "address": "edomef",
+        "phone": "34546"
+    },
+    {
+        "id": 21,
+        "name": "Emily Johnson",
+        "email": "emily.johnson@emailprovider.com",
+        "address": {
+            "street": "789 Oak Avenue",
+            "city": "Metropolis",
+            "state": "NY",
+            "zipCode": "10001"
+        },
+        "phone": ""
+    },
+    {
+        "id": 22,
+        "name": "george",
+        "email": "george@example.com",
+        "address": "fringin",
+        "phone": "445647"
+    }
+]
